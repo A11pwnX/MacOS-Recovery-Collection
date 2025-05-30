@@ -34,7 +34,7 @@ Each folder contains the minimal set of files required for macOS Recovery to boo
 ## Usage Instructions
 
 1. Copy the `com.apple.recovery.boot` folder for your desired version to a partition or external disk.
-2. Ensure it is properly referenced in your OpenCore or Clover boot configuration.
+2. Make sure that the folder com.apple.recovery.boot is at the root of a drive not in another folder for example usb/com.apple.recovery.boot it's good but usb/randomfolder/com.apple.recovery.boot won't work. Also make sure that the partition where you put the folder com.apple.recovery.boot is formatted in fat32 or exfat or Apfs. 
 3. Reboot and select the Recovery partition from your boot menu.
 
 ---
