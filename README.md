@@ -1,10 +1,10 @@
 # MacOS-Recovery-Collection
-A collection of com.apple.recovery.boot folders from macOS Lion to Sequoia for Hackintosh use.
+A collection of com.apple.recovery.boot folders from macOS Lion to macOS Tahoe for Hackintosh use.
 # RecoveryBoot macOS Lion to Sequoia
 
 https://drive.google.com/drive/folders/1jF8dr618N80z5FbvR1IqrAyxI52rl60N?usp=sharing
 
-This repository contains a collection of `com.apple.recovery.boot` folders for macOS versions ranging from **OS X Lion (10.7)** to **macOS Sequoia (15.0)**.
+This repository contains a collection of `com.apple.recovery.boot` folders for macOS versions ranging from **OS X Lion (10.7)** to **macOS Tahoe (26.0)**.
 
 It is intended for Hackintosh users who want to boot directly into macOS Recovery using Clover, OpenCore, or other compatible bootloaders.
 
