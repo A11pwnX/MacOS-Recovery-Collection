@@ -28,6 +28,7 @@ Each folder contains the minimal set of files required for macOS Recovery to boo
 - macOS Ventura (13)
 - macOS Sonoma (14)
 - macOS Sequoia (15)
+- macOS Tahoe (26)
 
 ---
 
