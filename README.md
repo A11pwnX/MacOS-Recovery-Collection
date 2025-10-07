@@ -1,6 +1,6 @@
 # MacOS-Recovery-Collection
 A collection of com.apple.recovery.boot folders from macOS Lion to macOS Tahoe for Hackintosh use.
-# RecoveryBoot macOS Lion to Sequoia
+# RecoveryBoot macOS Lion to Tahoe
 
 https://drive.google.com/drive/folders/1jF8dr618N80z5FbvR1IqrAyxI52rl60N?usp=sharing
 
